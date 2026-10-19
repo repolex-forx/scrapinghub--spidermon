@@ -1,0 +1,11 @@
+{
+  "org": "scrapinghub",
+  "repo": "spidermon",
+  "versions": [
+    {
+      "commit": "5bac6dd768463ece308ca67dc9fd18525364c940",
+      "tag": "",
+      "parsed_at": "2026-10-19T13:07:13.725421+00:00"
+    }
+  ]
+}
