@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scrapinghub/spidermon/commit/5bac6dd768463ece308ca67dc9fd18525364c940",
       "git:hexsha": "5bac6dd768463ece308ca67dc9fd18525364c940",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T13:07:13.724803+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scrapinghub/spidermon/commit/f470bd6805355646f512031d648cf9c7ef694955",
